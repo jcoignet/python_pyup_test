@@ -11,7 +11,7 @@ djangorestframework==3.8.2
 idna==2.8
 idna-ssl==1.1.0
 multidict==4.5.2
-pip==10.0.1
+pip==19.2
 psycopg2-binary==2.7.5
 pyasn1==0.4.3
 pyasn1-modules==0.2.2
